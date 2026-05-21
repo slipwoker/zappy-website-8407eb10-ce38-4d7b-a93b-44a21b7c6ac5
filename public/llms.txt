@@ -1,0 +1,104 @@
+# nw store — Generative Engine Optimization Map
+
+> An online retail store inspired by Shein's model, offering a wide variety of fashion items and accessories/home goods. The store aims to provide a large catalog of affordable products across multiple categories, combining clothing and lifestyle items in a single shopping destination with a modern e-commerce experience.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover thousands of affordable fashion finds, accessories &amp; home goods at nw store. Your ultimate shopify ecommerce store for modern style. Shop new arrivals now!
+
+### Lookbook
+https://example.com/lookbook
+Explore nw store&#39;s curated lookbook featuring the hottest trends in clothing &amp; lifestyle. Powered by seamless ecommerce fulfillment services. Find your next outfit today!
+
+### About
+https://example.com/about
+nw store is built on the amazon ecommerce platform vision — a massive catalog of fashion &amp; home goods delivered fast. Learn our story and why millions shop smarter with us.
+
+### Contact
+https://example.com/contact
+Have questions about orders, shipping, or ecommerce fulfillment services? Contact nw store&#39;s support team today and get fast, friendly help for all your shopping needs.
+
+### Products
+https://example.com/products
+Our Products - nw store
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - nw store
+
+### Category
+https://example.com/category/:slug
+Products - nw store
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About nw store
+An online retail store inspired by Shein's model, offering a wide variety of fashion items and accessories/home goods. The store aims to provide a large catalog of affordable products across multiple categories, combining clothing and lifestyle items in a single shopping destination with a modern e-commerce experience.
+
+## Services/Products
+- בגדים
+- חפצים
+
+## Target Audience
+- Urban Fashion Enthusiasts
+- Eco-Conscious Shoppers
+- Gift Buyers
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
